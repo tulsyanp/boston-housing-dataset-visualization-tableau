@@ -1,5 +1,8 @@
 ## Relationship between Boston's Residential Building's Interior Characteristics to the Building's Assessed Value
 
+## Structure
+1. The ```.mp4``` file contains the presentation for th visualization
+
 ## Installation
 1. Install Tableau Desktop
 2. Download the ```.tbwx``` file
@@ -10,3 +13,4 @@
 1. [Dataset](https://data.boston.gov/dataset/property-assessment/resource/695a8596-5458-442b-a017-7cd72471aade?inner_span=True)
 2. [Dataset Key](https://data.boston.gov/dataset/property-assessment/resource/bac18ae6-b8fd-4cd3-a61c-c5e1a11f716c?inner_span=True)
 3. [Visualization Demo](https://public.tableau.com/profile/prateek.tulsyan#!/vizhome/final_15873074733460/Story)
+4. [Presentation](https://youtu.be/wHEDoVoHcWc)
